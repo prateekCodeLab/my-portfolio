@@ -259,19 +259,13 @@ This portfolio was inspired by [Brittany Chiang's](https://brittanychiang.com) p
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 **Prateek Kumar**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [prateek-kumar](https://linkedin.com/in/prateek-kumar)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [@prateekCodeLab](https://github.com/prateekCodeLab)
+- LinkedIn: [prateekkmr3151](https://linkedin.com/in/prateekkmr3151)
+- Email: [your.prateekkmr3151@gmail.com](mailto:your.prateekkmr3151@gmail.com)
 
 ---
 
