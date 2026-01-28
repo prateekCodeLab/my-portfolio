@@ -265,7 +265,7 @@ This portfolio was inspired by [Brittany Chiang's](https://brittanychiang.com) p
 
 - GitHub: [@prateekCodeLab](https://github.com/prateekCodeLab)
 - LinkedIn: [prateekkmr3151](https://linkedin.com/in/prateekkmr3151)
-- Email: [your.prateekkmr3151@gmail.com](mailto:your.prateekkmr3151@gmail.com)
+- Email: [prateekkmr3151@gmail.com](mailto:prateekkmr3151@gmail.com)
 
 ---
 
