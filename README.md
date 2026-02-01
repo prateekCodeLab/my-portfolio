@@ -253,12 +253,6 @@ This is a personal portfolio project. If you'd like to suggest improvements:
 
 ---
 
-## 🎬 Design Inspiration
-
-This portfolio was inspired by [Brittany Chiang's](https://brittanychiang.com) portfolio — a masterclass in cinematic web design, smooth animations, and effective personal branding.
-
----
-
 ## 👤 Author
 
 **Prateek Kumar**
